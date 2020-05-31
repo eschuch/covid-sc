@@ -23,3 +23,4 @@ Compilar dados, fontes e notícias referente ao estado de Santa Catarina sobre C
 [Erico Schuch](https://twitter.com/t00rmenta)
 
 
+---
