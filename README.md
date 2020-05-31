@@ -4,14 +4,12 @@
 
 Compilar dados, fontes e notícias referente ao estado de Santa Catarina sobre COVID-19.
 
+
 ### Fontes de dados:
 
 [Fiocruz: Infogripe](https://gitlab.procc.fiocruz.br/mave/repo/tree/master/Dados/InfoGripe)
-
 [OpenDataSUS: Banco de dados de SRAG 2009-2020](https://opendatasus.saude.gov.br/dataset?tags=SRAG)
-
 [Google: Mobility Reports](https://www.google.com/covid19/mobility/)
-
 [Governo Santa Catarina: Painéis de Monitoramento](http://transparenciacovid19.sc.gov.br/paineis)
 
 
