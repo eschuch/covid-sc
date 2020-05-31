@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Compilação de dados sobre COVID-19 no estado de Santa Catarina.
 
-You can use the [editor on GitHub](https://github.com/eschuch/covid-sc/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Objetivo:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Compilar dados, fontes e notícias referente ao estado de Santa Catarina sobre COVID-19.
 
-### Markdown
+### Fontes de dados:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Fiocruz: Infogripe](https://gitlab.procc.fiocruz.br/mave/repo/tree/master/Dados/InfoGripe)
 
-```markdown
-Syntax highlighted code block
+[OpenDataSUS: Banco de dados de SRAG 2009-2020](https://opendatasus.saude.gov.br/dataset?tags=SRAG)
 
-# Header 1
-## Header 2
-### Header 3
+[Google: Mobility Reports](https://www.google.com/covid19/mobility/)
 
-- Bulleted
-- List
+[Governo Santa Catarina: Painéis de Monitoramento](http://transparenciacovid19.sc.gov.br/paineis)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### Problemas:
 
-[Link](url) and ![Image](src)
-```
+[Favor abrir um issue no GitHub](https://github.com/eschuch/covid-sc/issues/new/choose)
+[ou me envie um e-mail](mailto: eschuch+covid-sc@gmail.com ?subject=Sobre github:covid-sc)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Por:
 
-### Jekyll Themes
+[Erico Schuch](https://twitter.com/t00rmenta)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eschuch/covid-sc/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
