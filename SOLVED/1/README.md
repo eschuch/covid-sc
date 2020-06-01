@@ -13,3 +13,4 @@ Na semana 12, são aprox. 200 casos SRAG além da máxima para a semana já desc
 **Se contabilizado media historica 2010-2019 SRAG + COVID-19 e compararmos com casos internação SRAG atual,
 temos um valor semanal de aprox. 200 internações a mais que a média histórica para semanas 12-19**
 
+![SRAG internações 2010-2020 para SC](https://github.com/eschuch/covid-sc/blob/master/SOLVED/1/1_htm.jpg?raw=true)
