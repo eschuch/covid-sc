@@ -1,11 +1,11 @@
-## Compilação de dados sobre COVID-19 no estado de Santa Catarina.
+## Compilação de dados sobre COVID-19 no estado de Santa Catarina
 
-### Objetivo:
+### Objetivo
 
 Compilar dados, fontes e notícias referente ao estado de Santa Catarina sobre COVID-19.
 
 
-### Fontes de dados:
+### Fontes de dados
 
 [Fiocruz: Infogripe](https://gitlab.procc.fiocruz.br/mave/repo/tree/master/Dados/InfoGripe)
 
@@ -16,14 +16,14 @@ Compilar dados, fontes e notícias referente ao estado de Santa Catarina sobre C
 [Governo Santa Catarina: Painéis de Monitoramento](http://transparenciacovid19.sc.gov.br/paineis)
 
 
-### Problemas:
+### Problemas
 
 [Favor abrir um issue no GitHub](https://github.com/eschuch/covid-sc/issues/new/choose)
 
 [Ou me envie um e-mail](mailto: eschuch+covid-sc@gmail.com ?subject=Sobre github:covid-sc)
 
 
-### Por:
+### Por
 
 [Erico Schuch](https://twitter.com/t00rmenta)
 
