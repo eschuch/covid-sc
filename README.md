@@ -31,7 +31,7 @@ Compilar dados, fontes e notícias referente ao estado de Santa Catarina sobre C
 
 [Favor abrir um issue no GitHub](https://github.com/eschuch/covid-sc/issues/new/choose)
 
-[Ou me envie um e-mail](mailto: eschuch+covid-sc@gmail.com ?subject=Sobre github:covid-sc)
+[Ou me envie um e-mail](mailto:eschuch+covid-sc@gmail.com?subject=covid-sc)
 
 
 ### Por
